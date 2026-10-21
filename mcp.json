@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "mosn": { "type": "http", "url": "https://mosn-api.mosn-3r41y.workers.dev/mcp" }
+  }
+}
