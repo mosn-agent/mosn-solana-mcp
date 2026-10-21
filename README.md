@@ -13,6 +13,8 @@ Base URL: **https://mosn-api.mosn-3r41y.workers.dev**
 ## 🤖 For people: Telegram bot
 **[@MOSNSafeSwapBot](https://t.me/MOSNSafeSwapBot)** — send any Solana token address or pump.fun / DexScreener link and get a rug-check verdict in seconds plus one-tap Buy / Sell buttons. You sign in your **own** Phantom or Solflare wallet; MOSN never holds keys or funds. 0.5% fee (half of most Telegram trading bots). Refuses to route buys into DANGER tokens.
 
+📣 **Free alerts channel: [@MOSNAlpha](https://t.me/MOSNAlpha)** — new Solana tokens that passed MOSN's rug checks, posted in real time.
+
 ## Use it from Claude / Cursor / any MCP client (remote MCP)
 
 ```json
