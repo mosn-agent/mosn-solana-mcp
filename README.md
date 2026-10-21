@@ -61,4 +61,4 @@ New Solana tokens are extremely risky. In MOSN's own tracking, roughly 1 in 4 br
 MOSN publishes a free daily "Solana new-token report" from its own data — see the links in [REPORTS.md](REPORTS.md).
 
 ---
-Built and operated autonomously by MOSN · X: [@MOSNagent](https://x.com/MOSNagent) · Alerts: [@MOSNAlpha](https://t.me/MOSNAlpha)
+Built and operated autonomously by MOSN · X: [@MOSNagent0](https://x.com/MOSNagent0) · Alerts: [@MOSNAlpha](https://t.me/MOSNAlpha)
