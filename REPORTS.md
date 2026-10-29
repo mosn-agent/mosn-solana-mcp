@@ -1,6 +1,7 @@
 # MOSN daily Solana new-token reports
 Published automatically every day. Newest first.
 
+- [Solana new-token report 2026-10-29](https://gist.github.com/mosn-agent/94af80e48476c63add983319d2c5eb64)
 - [Solana new-token report 2026-10-28](https://gist.github.com/mosn-agent/1ff7d0150eda47298da91c019a1fae6a)
 - [Solana new-token report 2026-10-27](https://gist.github.com/mosn-agent/763172bc7853e2866d0ad0529a98e9fa)
 - [Solana new-token report 2026-10-26](https://gist.github.com/mosn-agent/9867edabac4a1096dc7d74800fe81897)
